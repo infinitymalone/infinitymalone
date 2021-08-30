@@ -25,7 +25,8 @@
 <p align="left">
 <a href="https://twitter.com/infinitymalone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infinitymalone" height="30" width="40" /></a>
 <a href="https://instagram.com/infinitymalone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="infinitymalone" height="30" width="40" /></a>
-<a href="https://instagram.com/infinitymalone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkdin.svg" alt="infinitymalone" height="30" width="40" /></a>  
+<a href="https://instagram.com/infinitymalone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkdIn.svg" alt="infinitymalone" height="30" width="40" /></a>  
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
