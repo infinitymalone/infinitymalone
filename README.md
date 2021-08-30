@@ -33,8 +33,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitymalone&theme=omni&&show_icons=true&locale=en&layout=compact" alt="infinitymalone" ></p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=infinitymalone&theme=omni&&show_icons=true&locale=en" alt="infinitymalone" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infinitymalone&" alt="infinitymalone" /></p> -->
 
-<p>
-## Hope you enjoy checking out my projects! enjoy the ride :love_letter:	
-</p>
