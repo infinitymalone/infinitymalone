@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-  <div class="tenor-gif-embed" data-postid="5114770" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/hey-tom-hanks-forrest-gump-gif-5114770">Hey GIF</a>from <a href="https://tenor.com/search/hey-gifs">Hey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  
 
 
 - 🔭 I’m currently working on **my Front-end Skills**
