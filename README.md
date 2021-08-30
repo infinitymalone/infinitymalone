@@ -34,5 +34,5 @@
 &nbsp;
 <p><img  src="https://github-readme-stats.vercel.app/api?username=infinitymalone&theme=omni&&show_icons=true&locale=en" alt="infinitymalone" /></p>
 <hr>
-##HOPE YOU ENJOY MY PROJECTS 💖
+<h1>HOPE YOU ENJOY MY PROJECTS 💖</h1>
 
