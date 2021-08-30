@@ -4,7 +4,7 @@
 
 
 <!-- ![hey-tom-hanks]() -->
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :yellow_heart:</h1>
 <h3 align="center">A passionate frontend developer from India</h3>  
 
 
