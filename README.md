@@ -1,3 +1,4 @@
+![hey-tom-hanks](https://user-images.githubusercontent.com/65559868/131291918-07144049-268b-4eff-af3b-252b62111987.gif)
 <h1 align="center">Hi 👋, I'm Tushar Rawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
