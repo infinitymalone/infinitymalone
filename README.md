@@ -1,9 +1,8 @@
-<!-- <p align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65559868/131372583-404642c5-0ba7-4756-b48b-95dec63d2bef.gif"  alt="WELCOME">
+</p>
 
-  <img src="https://user-images.githubusercontent.com/65559868/131294133-48862d0c-7110-4b43-a204-831df96aa417.gif" width="550px" alt="WELCOME">
-</p> -->
 
-[WELCOME TO MY PROFILE](https://user-images.githubusercontent.com/65559868/131372583-404642c5-0ba7-4756-b48b-95dec63d2bef.gif)
 <!-- ![hey-tom-hanks]() -->
 <h1 align="center">Hi , I'm Tushar Rawat 👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>  
