@@ -1,7 +1,6 @@
 <p align="center">
-<!--   <img src="https://www.canva.com/design/DAEojgW50aU/gWDtrTZD7h2jdFgqp1VKfA/view?utm_content=DAEojgW50aU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" width="350" title="hover text"> -->
-  <img src="https://user-images.githubusercontent.com/65559868/131293864-7c6a8b61-25d8-476e-8fe7-e767e00f4a34.gif" width="500![Untitled design]()
-"  alt="WELCOME">
+
+  <img src="https://user-images.githubusercontent.com/65559868/131293864-7c6a8b61-25d8-476e-8fe7-e767e00f4a34.gif" width="350" alt="WELCOME">
 </p>
 
 <!-- ![hey-tom-hanks]() -->
