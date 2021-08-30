@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
 
   <img src="https://user-images.githubusercontent.com/65559868/131294133-48862d0c-7110-4b43-a204-831df96aa417.gif" width="550px" alt="WELCOME">
-</p>
+</p> -->
 
 
 <!-- ![hey-tom-hanks]() -->
