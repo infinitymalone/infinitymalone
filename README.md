@@ -25,7 +25,9 @@
 <p align="left">
 <a href="https://twitter.com/infinitymalone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infinitymalone" height="30" width="40" /></a>
 <a href="https://instagram.com/infinitymalone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="infinitymalone" height="30" width="40" /></a>
-<a href="https://instagram.com/infinitymalone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkdIn.svg" alt="infinitymalone" height="30" width="40" /></a>  
+<a href="https://instagram.com/infinitymalone" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65559868/131375233-500b91ec-b205-452e-baa5-98bd2a9e248f.png" alt="infinitymalone" height="30" width="40" /></a>
+ 
+
  
 </p>
 
