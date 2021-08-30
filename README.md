@@ -1,7 +1,8 @@
 <p align="center">
 
-  <img src="https://user-images.githubusercontent.com/65559868/131293864-7c6a8b61-25d8-476e-8fe7-e767e00f4a34.gif" width="350" alt="WELCOME">
+  <img src="https://user-images.githubusercontent.com/65559868/131294133-48862d0c-7110-4b43-a204-831df96aa417.gif" width="550px" alt="WELCOME">
 </p>
+
 
 <!-- ![hey-tom-hanks]() -->
 <h1 align="center">Hi 👋, I'm Tushar Rawat</h1>
