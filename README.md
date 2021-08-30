@@ -33,4 +33,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitymalone&theme=omni&&show_icons=true&locale=en&layout=compact" alt="infinitymalone" ></p>
 &nbsp;
 <p><img  src="https://github-readme-stats.vercel.app/api?username=infinitymalone&theme=omni&&show_icons=true&locale=en" alt="infinitymalone" /></p>
+<hr>
+##HOPE YOU ENJOY MY PROJECTS 💖
 
