@@ -1,12 +1,11 @@
-<!-- ![hey-tom-hanks]() -->
-<h1 align="center">Hi 👋, I'm Tushar Rawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="center">
 <!--   <img src="your_relative_path_here" width="350" title="hover text"> -->
-  <img src="https://user-images.githubusercontent.com/65559868/131291918-07144049-268b-4eff-af3b-252b62111987.gif" width="350" alt="accessibility text">
+  <img src="https://user-images.githubusercontent.com/65559868/131291918-07144049-268b-4eff-af3b-252b62111987.gif" width="500" height="100" alt="WELCOME">
 </p>
-  
+
+<!-- ![hey-tom-hanks]() -->
+<h1 align="center">Hi 👋, I'm Tushar Rawat</h1>
+<h3 align="center">A passionate frontend developer from India</h3>  
 
 
 
