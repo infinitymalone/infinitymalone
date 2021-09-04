@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **my Front-end Skills**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack** and **working on my DSA**
 
 - 👯 I’m looking to collaborate with **other content creators❤**
 
