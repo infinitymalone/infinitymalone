@@ -12,7 +12,6 @@ Results-driven Software Developer with 3.5+ years of experience in Java 8, Sprin
 ![](https://nirzak-streak-stats.vercel.app/?user=infinitymalone&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitymalone&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
